@@ -1,4 +1,4 @@
-# card-profile
+# meet-our-team-section
  🇺🇸 "Meet Our Team" section model with interactive cards. 
  🇧🇷 Modelo de seção "Conheça Nossa Equipe" com cartões interativos.
  
@@ -7,7 +7,7 @@
  
 
 ## Project Link / Link do Projeto
- * https://lucasaraujodev.github.io/card-profile/
+ * https://lucasaraujodev.github.io/meet-our-team-section/
  
 
 ## For this project, I used / Para este projeto, utilizei:
